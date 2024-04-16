@@ -4,7 +4,7 @@
     <b>Welcome to my GitHub!</b><br><br>
     <i>
         I'm Mitchell.<br>
-        I'm a recent college graduate currently working on some personal projects.<br>
+        I'm an apprentice software developer currently working on some personal projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/mitchell-zoph-137318187">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
